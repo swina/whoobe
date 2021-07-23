@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{259:function(n,e,t){"use strict";t.r(e),e.default={install:function(n){n.prototype.$add_to_cart=function(n){if(n)return!1;n._id,n.sale?n.sale:n.price,n._id,n.image,n.name,n.description?n.description:n.name}}}}}]);
