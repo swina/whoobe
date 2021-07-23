@@ -1,1 +1,0 @@
-__NUXT_JSONP__("manifest.js", {routes:["\u002Fstore","\u002Fdreams-website","\u002F","\u002Fwhat-is-whoobe","\u002Fserverless-full-static-website","\u002Fwhoobe-multipage-support","\u002Ftemplate-1","\u002Fbig-mountain-website","\u002Fresponsive-navigation","\u002Fcorporate-website","\u002Flanding-page-1","\u002Flanding-page-5","\u002Fcontact","\u002Fabout-us"]})
